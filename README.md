@@ -1,1 +1,1 @@
-# timer_for_ass
+main.pyw тоже самое что и main.py только без консоли
