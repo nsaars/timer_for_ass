@@ -1,0 +1,35 @@
+math 2 
+physics 3 
+
+
+
+english 2 
+math 3 
+
+
+
+olympiad 3 
+english 1 
+python 2 
+
+
+
+olympiad 3 
+physics 3 
+
+
+
+english 2 
+python 2 
+
+
+
+python 2 
+olympiad 3 
+
+
+
+python 4 
+
+
+

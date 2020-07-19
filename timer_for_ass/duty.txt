@@ -1,0 +1,5 @@
+physics 7 
+english 5 
+olympiad 9 
+python 10 
+math 5 
